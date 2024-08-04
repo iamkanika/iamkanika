@@ -1,14 +1,21 @@
-## Hey, I am Kanika 👋
+# Hi, I'm Kanika Garg <img src="https://raw.githubusercontent.com/iamkanika/iamkanika/main/wave.gif" width="30px" height="30px" />
 
-### About Me
+### Passionate about crafting dynamic web experiences!
 
-I am a final year student pursuing a B.Tech in Computer Science and Design at I.M.S Engineering College, with a specialization in web development. Throughout my academic journey, I have gained a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and MySQL. My passion lies in creating intuitive and dynamic web applications that enhance user experience. I am a quick learner, always exploring new technologies and frameworks to stay current in the ever-evolving field of web development.
+## About Me
 
-### Projects and Skills
+- 🎓 Final year student pursuing B.Tech in Computer Science and Design at I.M.S Engineering College.
+- 🌱 Currently learning Web Development.
+- 👯 Seeking collaboration on Live Projects.
+- 🤔 Looking for Internship opportunities.
+- 💬 Ask me about HTML, CSS, Responsive Web Design, JavaScript, or any tech-related queries.
+- 📫 Reach me at:
 
-I have applied my skills in various small projects, continuously honing my abilities. My focus on web development has led me to work on projects that require a deep understanding of both frontend and backend technologies. As I approach graduation, I am eager to transition into a professional role where I can contribute to impactful projects and continue to grow my skills in a collaborative environment.
+   [![Email](https://img.shields.io/badge/kanikagarg2707%40gmail.com-blue?style=social&logo=gmail&link=mailto:kanikagarg2707%40gmail.com)](mailto:kanikagarg2707@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/kanika-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/iamkanikagarg/)](https://www.linkedin.com/in/iamkanikagarg/)
+   [![Instagram](https://img.shields.io/badge/kanika-blue?style=social&logo=instagram&link=https://instagram.com/__agirl_likea_pearl/)](https://instagram.com/__agirl_likea_pearl/)
 
-### Experiences
+## Experiences
 
 - **Contributor at Girl Script Summer of Code (GSSoc'24)**
   - Actively contributed to open-source projects, collaborating with a community of developers.
@@ -19,11 +26,16 @@ I have applied my skills in various small projects, continuously honing my abili
 - **Frontend Developer Intern at Oasis Infotech**
   - Developed and maintained responsive web applications, ensuring optimal performance and user experience.
 
-### Currently
+<!--  Github Stats Section -->
 
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on Live Projects.
-- 🤔 I’m seeking Internship opportunities.
-- 💬 Open to feedback and suggestions for improvement.
-- 📫 How to reach me: [kanikagarg2707@gmail.com](mailto:kanikagarg2707@gmail.com)
-- 😄 Trying to maintain the longest streak on GitHub.
+<details>
+   <summary>:zap: GitHub Stats</summary>
+   <br/>
+   <img align="left" alt="iamkanika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamkanika&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+   <img align="left" alt="iamkanika's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkanika&theme=dark&layout=compact&align=right&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25&show_icons=true&hide_border=false" />
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+</details>
+
+<div style="clear:both;"></div>
+<br/>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
