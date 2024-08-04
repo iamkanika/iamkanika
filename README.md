@@ -38,4 +38,4 @@
 
 <div style="clear:both;"></div>
 <br/>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>I believe in the power of collaboration and the exchange of ideas</b>. If you want to connect, discuss potential projects, or simply say <b>hi</b>, I would love to hear from you :)</em>
